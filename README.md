@@ -26,4 +26,3 @@ docker-compose up --build
 - Users can view feed
 - Create posts
 - Receive notifications
-- Services visible in Eureka
